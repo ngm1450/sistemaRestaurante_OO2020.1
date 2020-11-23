@@ -1,0 +1,12 @@
+[name:acpf:b]
+[Nome:Nicolas CPF:06820942184 Cargo:Gerente Salario:5000.0
+[Nome:Nicolas Georgeos Mantzos CPF:06820942184 Cargo:Garçom Salario:520.0]
+[Nome:Sebastião Davi Alves CPF:12656058406 Cargo:Garçom Salario:2500.0]
+[Nome:Julio Carlos Caio Nogueira CPF:53463879867 Cargo:Garçom Salario:2600.0]
+[Nome:Lorenzo Breno Lucas Gomes CPF:952.241.338-07 Cargo:Garçom Salario:3000.0]
+[Nome:Rayssa Mariane Clarice Cardoso CPF:764.315.807-02 Cargo:Gerente Salario:6000.0]
+[Nome:Carlos CPF:25689 Cargo:Garçom Salario:2500.0]
+[Nome:gh CPF:5682 Cargo:Gerente Salario:5000.0]
+[Nome:hn CPF:06852 Cargo:Garçom Salario:265.0 0]
+[Nome:gh CPF:0625 Cargo:Gerente Salario:5000.0]
+[Nome:Ana CPF:05256084165 Cargo:Garçom Salario:3000.0 Clientes atendidos: 0]
